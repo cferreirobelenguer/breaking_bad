@@ -13,6 +13,8 @@
     - Los state están gestionados mediante la librería de redux
 
 ## VISTA DESKTOP
-
+![image](https://user-images.githubusercontent.com/88061350/205273743-eb30911d-4d25-4ec8-94ba-2240c26a69af.png)
 
 ## VISTA RESPONSIVE
+![image](https://user-images.githubusercontent.com/88061350/205273925-6aa2d19f-2e6e-454e-81e1-822bb33d8240.png)
+![image](https://user-images.githubusercontent.com/88061350/205274030-cc6b02ad-617f-4be9-a4e7-4685aefe4670.png)
