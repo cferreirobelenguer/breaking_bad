@@ -1,0 +1,3 @@
+//Types
+export const AGREGAR_API='AGREGAR_API'
+export const AGREGAR_INPUT='AGREGAR_INPUT'

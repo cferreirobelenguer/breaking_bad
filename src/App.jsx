@@ -1,11 +1,17 @@
 import SearchBar from './components/SearchBar'
 import '../src/assets/scss/style.css'
+import store from './store/store'
+import { Provider } from 'react-redux'
+
 function App() {
 
   return (
-    <div className="App">
-      <SearchBar/>
-    </div>
+    <Provider store={store}>
+      <div className="App">
+        <SearchBar/>
+      </div>
+    </Provider>
+    
   )
 }
 
